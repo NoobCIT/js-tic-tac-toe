@@ -1,0 +1,25 @@
+
+.square {
+  width: 50px;
+  height: 50px;
+  background-color: #ffcccc;
+  border-style: solid;
+  border-color: #ff3333;
+  float: left;
+}
+
+.X {
+  width: 100px;
+  height: auto;
+  background-image: url("../images/x.png");
+}
+
+.O {
+  width: 40px;
+  height: 40px;
+  background-image: url("images/o.jpg");
+}
+
+#board {
+  width: 168px;
+}
